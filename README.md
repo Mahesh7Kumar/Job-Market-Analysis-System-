@@ -1,8 +1,11 @@
+
+# 🌐 Live App [🚀Go LIVE](https://jobmarketsystem.netlify.app/) 
+---
 # 🔍 Job Market Analysis System
 
 An AI-powered, MERN-based web application that analyzes job descriptions, detects technical skills, and classifies them as **emerging** or **established** — all styled with a **Solo Leveling-inspired Shadow Monarch UI**.
-
 ---
+           
 
 ## 🧠 Features
 
