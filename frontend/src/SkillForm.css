@@ -1,0 +1,115 @@
+
+
+/* Base layout */
+body {
+  background: radial-gradient(circle at top left, #0d0d1a, #2f2f43);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #e6e6ff;
+  margin: 0;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* Outer container div (first-level form wrapper) */
+div {
+  box-sizing: border-box;
+  max-width: 720px;
+  width: 100%;
+  background: linear-gradient(145deg, #111122, #181833);
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.07);
+  
+  animation: fadeIn 0.6s ease-in-out;
+  margin-top: 20px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+textarea {
+  background-color: #131328;
+  color: #d8d8ff;
+  border: 1px solid #2c2c5a;
+  border-radius: 8px;
+  width: 100%;
+  padding: 16px;
+  font-size: 18px;
+  resize: vertical;
+  box-shadow: inset 0 0 10px rgba(0, 183, 255, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+textarea:focus {
+  outline: none;
+  box-shadow: 0 0 12px #00d4ff88;
+}
+
+button {
+  margin-top: 20px;
+  padding: 14px 36px;
+  background: linear-gradient(to right, #0c0c1c, #13132f);
+  border: 2px solid #00bcd4;
+  border-radius: 12px;
+  color: #e0f7ff;
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  box-shadow:
+    0 0 12px rgba(0, 255, 255, 0.2),
+    0 0 20px rgba(0, 123, 255, 0.15) inset;
+  text-shadow: 0 0 6px #00eaffaa;
+}
+
+button:hover {
+  background: linear-gradient(to right, #1a1a40, #002244);
+  color: #ffffff;
+  box-shadow:
+    0 0 24px #00eaff,
+    0 0 10px #0088ff inset;
+  transform: scale(1.04);
+  border-color: #00eaff;
+}
+
+
+h3 {
+  color: #00eaff;
+  margin-bottom: 12px;
+  text-shadow: 0 0 4px #00f2ff99;
+}
+
+ul {
+  padding-left: 20px;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+  font-size: 17px;
+}
+
+strong {
+  color: #00f2ff;
+  font-weight: 600;
+}
+
+/* result block (any nested div after textarea + button) */
+div > div {
+  margin-top: 30px;
+  background-color: #18182a;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 14px rgba(0, 255, 255, 0.05);
+}

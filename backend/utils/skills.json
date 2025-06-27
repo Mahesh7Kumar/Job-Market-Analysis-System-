@@ -1,0 +1,6 @@
+[
+  "react", "node.js", "express", "mongodb",
+  "python", "java", "aws", "docker", "tensorflow",
+  "pytorch", "kubernetes", "sql", "mysql", "graphql",
+  "langchain", "next.js", "redux", "typescript"
+]
