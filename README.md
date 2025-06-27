@@ -33,12 +33,12 @@ An AI-powered, MERN-based web application that analyzes job descriptions, detect
 <table>
   <tr>
     <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System-/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114409.png" width="150"/></td>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114631.png" width="150"/></td>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114702.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System-/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114631.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System-/blob/main/frontend/src/assets/Screenshot%202025-06-26%20114702.png" width="150"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%123638.png" width="150"/></td>
-    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System/blob/main/frontend/src/assets/Screenshot%202025-06-26%123658.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System-/blob/main/frontend/src/assets/Screenshot%202025-06-26%20123638.png" width="150"/></td>
+    <td><img src="https://github.com/Mahesh7Kumar/Job-Market-Analysis-System-/blob/main/frontend/src/assets/Screenshot%202025-06-26%20123658.png" width="150"/></td>
   </tr>
 </table>
 </center>
