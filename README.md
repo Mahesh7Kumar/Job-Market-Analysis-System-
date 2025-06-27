@@ -1,5 +1,5 @@
 
-# 🌐 Live App [🚀Go LIVE](https://jobmarketsystem.netlify.app/) 
+# 🌐 Live App [🚀Go LIVE](https://jobmarketfinder.netlify.app/) 
 ---
 # 🔍 Job Market Analysis System
 
